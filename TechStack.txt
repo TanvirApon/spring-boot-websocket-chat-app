@@ -1,0 +1,16 @@
+# BACKEND(Server-Side)
+- Spring Boot
+- Spring WebSocket
+- Spring Messaging (STOMP Protocol)
+- Thymeleaf
+
+# FRONTEND(Client-Side)
+- Thymeleaf
+- JavaScript(ES6)
+- SockJs
+- STOMP.js
+- HTML/CSS
+- Bootstrap
+
+# DEVELOPMENT AND INFRASTRUCTURE TOOLS
+- Maven/Gradle
